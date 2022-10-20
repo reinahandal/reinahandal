@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Reina
 #### I am a Full Stack Developer in Training 🚀
 
-I have a background in Business Administration and Marketing
+I have a background in Business Administration and Marketing <br>
 I decided to make a career transition in order to pursue opportunities in the tech field where I can unlock my full creative potential and hopefully work on projects I am passionate about!
 
 Skills: Django / Flask / Bootstrap / Python / JS  / HTML / CSS / MySQL / Git / Github / Balsamiq
