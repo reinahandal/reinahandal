@@ -6,7 +6,7 @@ I decided to make a career transition in order to pursue opportunities in the te
 
 Skills: Spring Boot / Django / Flask / Bootstrap / Java / Python / JavaScript / HTML / CSS / SQL / Git / Github / Balsamiq
 
-- 🔭 I’m currently working on [this project](https://github.com/reinahandal/meshwar), and [this project too] (https://github.com/reinahandal/skillful_project)
+- 🔭 I’m currently working on [this project](https://github.com/reinahandal/meshwar), and [this project too](https://github.com/reinahandal/skillful_project)
 - 🌱 I’m currently learning MERN
 - ⚡ Fun fact: I am equally passionate about learning human languages 
 
