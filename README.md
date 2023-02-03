@@ -1,14 +1,28 @@
-### Hi there 👋 My name is Reina
-#### I am a Full Stack Developer in Training 🚀
+### Hi there 👋 My name is Reina Handal
+#### I am a Full Stack Developer 🚀
 
 I have a background in Business Administration and Marketing <br>
 I decided to make a career transition in order to pursue opportunities in the tech field where I can unlock my full creative potential and hopefully work on projects I am passionate about!
 
-Skills: Spring Boot / Django / Flask / Bootstrap / Java / Python / JavaScript / HTML / CSS / SQL / Git / Github / Balsamiq
+### Skills:
+#### Languages:
+Javascript / Java / Python / HTML / CSS / SQL 
+#### Frameworks/Libraries: 
+React / Node.js / Express / Spring Boot / Django / Flask / Bootstrap / Material UI / Socket.io
+#### Database: 
+MySQL, MongoDB, Mongoose
+#### Tools/Technologies:
+Git / Github / REST API / JSON / MySQL Workbench / Spring Tool Suite / Postman / AWS(EC2) / Balsamiq
 
-- 🔭 I’m currently working on [this project](https://github.com/reinahandal/meshwar), and [this project too](https://github.com/reinahandal/skillful_project)
-- 🌱 I’m currently learning MERN
-- ⚡ Fun fact: I am equally passionate about learning human languages 
+### Check out some of my projects: 
+- [GuruDesk](https://github.com/reinahandal/GuruDesk) - React, Node.js, Express and MongoDB
+- [Meshwar](https://github.com/reinahandal/meshwar) - Django
+- [Skillful](https://github.com/reinahandal/skillful_project) - Spring Boot
+
+### Some fun facts about me: 
+-👩‍💻 I am equally passionate about learning human languages<br>
+-☕ I am a huge coffee enthusiast, I'm pretty much a caffeine-dependent life-form<br>
+-🥁 I play the drums!<br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reinahandal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/reina-handal/)  
