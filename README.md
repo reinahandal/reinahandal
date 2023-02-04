@@ -15,9 +15,9 @@ MySQL / MongoDB / Mongoose
 Git / Github / REST API / JSON / MySQL Workbench / Spring Tool Suite / Postman / AWS(EC2) / Balsamiq
 
 ### Check out some of my projects: 
-- [GuruDesk](https://github.com/reinahandal/GuruDesk) - React, Node.js, Express and MongoDB
-- [Meshwar](https://github.com/reinahandal/meshwar) - Django
-- [Skillful](https://github.com/reinahandal/skillful_project) - Spring Boot
+- [GuruDesk](https://github.com/reinahandal/GuruDesk) - a support ticketing system built using React, Node.js, Express and MongoDB
+- [Meshwar](https://github.com/reinahandal/meshwar) - a platform for crowdsourced content about events and activities in Palestine, built using Django
+- [Skillful](https://github.com/reinahandal/skillful_project) - a platform connecting tutors and students built using Spring Boot
 
 ### Some fun facts about me: 
 -👩‍💻 I am equally passionate about learning human languages<br>
