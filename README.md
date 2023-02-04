@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Reina Handal
-#### I am a Full Stack Developer 🚀
+## Hi there 👋 My name is Reina Handal
+### I am a Full Stack Developer 🚀
 
 I have a background in Business Administration and Marketing <br>
 I decided to make a career transition in order to pursue opportunities in the tech field where I can unlock my full creative potential and hopefully work on projects I am passionate about!
