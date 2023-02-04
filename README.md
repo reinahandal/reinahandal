@@ -10,7 +10,7 @@ Javascript / Java / Python / HTML / CSS / SQL
 #### Frameworks/Libraries: 
 React / Node.js / Express / Spring Boot / Django / Flask / Bootstrap / Material UI / Socket.io
 #### Database: 
-MySQL, MongoDB, Mongoose
+MySQL / MongoDB / Mongoose
 #### Tools/Technologies:
 Git / Github / REST API / JSON / MySQL Workbench / Spring Tool Suite / Postman / AWS(EC2) / Balsamiq
 
