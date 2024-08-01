@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Reina
 
-## I'm a passionate and detail-oriented Front End Developer experienced in React and Javascript, dedicated to crafting seamless and engaging User Interfaces! 🧙 💻
+### I'm a passionate and detail-oriented Front End Developer experienced in React and Javascript, dedicated to crafting seamless and engaging User Interfaces! 🧙 💻
 
 ### Check out some of my full stack projects: 
 - [GuruDesk](https://github.com/reinahandal/GuruDesk) - a support ticketing system built using React, Node.js, Express and MongoDB
