@@ -13,4 +13,4 @@ I'm a Frontend Engineer with experience in building high-performance web applica
 
 
 ### Let's Connect  
-📫 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/reina-handal/)) 
+📫 [LinkedIn](https://www.linkedin.com/in/reina-handal/) 
